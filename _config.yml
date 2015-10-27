@@ -2,9 +2,8 @@
 title: Random Markers 
 email: mano.marks@gmail.com
 description: Private site for Mano Marks, hacker and developer relations professional
-
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://manomarks.github.io" # the base hostname & protocol for your site
+baseurl: ""
+url: "http://manomarks.github.io"
 twitter_username: ManoMarks 
 github_username:  ManoMarks
 
