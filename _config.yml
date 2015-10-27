@@ -3,6 +3,7 @@ title: Random Markers
 email: mano.marks@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
 Private site for Mano Marks, hacker and developer relations professional
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://manomarks.github.io" # the base hostname & protocol for your site
 twitter_username: ManoMarks 
