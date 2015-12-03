@@ -1,0 +1,23 @@
+---
+layout: post
+title: Running Linux GUI Apps in Windows using Docker
+date: "2015-12-03 17:00"
+categories: null
+published: true
+---
+
+There's been several posts about running Linux GUI apps on a Mac using Docker. I thought I'd try doing it on Windows. This is so I can remember what I did.
+
+What I had installed:
+Windows 8.1
+[Docker Toolbox](https://www.docker.com/docker-toolbox) - You'll need this to run Docker, obvs
+[Cygwin/X](http://x.cygwin.com/) - Cygwin doesn't come with an X server by default, so you'll need the Cygwin/X version. This let's you run an X11 server on your machine.
+
+I'm actually relatively new to setting up and running X servers, so feel free to offer any comments/suggestions for improvement.
+
+Start up the Cygwin terminal.
+export DISPLAY=your-machine-ip:0.0
+startxwin -- -listen tcp &
+xhost + your-machine-ip
+eval "$(docker-machine env your-machine-name)"
+docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix firefox
