@@ -17,8 +17,8 @@ I'm actually relatively new to setting up and running X servers, so feel free to
 
 Start up the Cygwin terminal.
 
-    $ export DISPLAY=your-machine-ip:0.0
+    $ export DISPLAY=*your-machine-ip*:0.0
     $ startxwin -- -listen tcp &
-    $ xhost + your-machine-ip
-    $ eval "$(docker-machine env your-machine-name)"
+    $ xhost + *your-machine-ip*
+    $ eval "$(docker-machine env *your-machine-name*)"
     $ docker run --rm -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix firefox
