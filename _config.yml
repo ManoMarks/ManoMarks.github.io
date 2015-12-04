@@ -1,9 +1,9 @@
 # Site settings
-title: Random Markers 
-description: Private site for Mano Marks, hacker, map fan, and Developer Relations Director at Docker
+title: Random Markers
+description: Private site for Mano Marks, hacker, map fan, and Developer Relations Director at Docker. Views expressed here are my own and not necessarily those of my employer.
 baseurl: ""
 url: "http://manomarks.github.io"
-twitter_username: ManoMarks 
+twitter_username: ManoMarks
 github_username:  ManoMarks
 
 # Build settings
