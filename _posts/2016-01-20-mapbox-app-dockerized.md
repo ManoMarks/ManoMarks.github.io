@@ -2,7 +2,7 @@
 layout: post
 title: Simple Dockerized CSV Map
 date: "2016-01-20 16:31:00 −07:00"
-categories: docker, map, mapbox
+categories: null
 published: true
 comments: true
 ---

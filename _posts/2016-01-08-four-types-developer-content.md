@@ -2,7 +2,7 @@
 layout: post
 title: Four Types of Developer Content for Evangelism
 date: "2016-01-08 12:00 −07:00"
-categories: developer relations
+categories: null
 comments: true
 published: true
 ---
