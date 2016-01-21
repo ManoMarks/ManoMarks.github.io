@@ -2,7 +2,8 @@
 layout: post
 title: Running Linux GUI Apps in Windows using Docker
 date: "2015-12-03 12:00 −07:00"
-categories: null
+categories: docker, linux
+comments: true
 published: true
 ---
 

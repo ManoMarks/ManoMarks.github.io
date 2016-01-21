@@ -2,8 +2,9 @@
 layout: post
 title: Simple Dockerized CSV Map
 date: "2016-01-20 16:31:00 −07:00"
-categories: null
+categories: docker, map, mapbox
 published: true
+comments: true
 ---
 
 Odd as it is to say, I had never Dockerized a map app before now. For those of you who don't know, I spent about 8 years deep into Google Maps, OSS mapping tools, etc. I had also never created a [Mapbox API](https://www.mapbox.com/developers/ "Mapbox Developers") map. So I decided to try it. I really like the Mapbox [clustering sample](https://www.mapbox.com/mapbox.js/example/v1.0.0/leaflet-markercluster/ "clustering sample") app. I also really like the way that Mapbox includes your api key in every sample, once you're logged in. Pretty cool.

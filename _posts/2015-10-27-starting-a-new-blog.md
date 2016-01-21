@@ -2,7 +2,7 @@
 layout: post
 title: Starting a new blog
 date: "2015-10-27 12:52 −07:00"
-categories: null
+categories: docker
 published: true
 ---
 
