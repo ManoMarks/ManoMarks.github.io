@@ -5,6 +5,6 @@ baseurl: ""
 url: "http://manomarks.github.io"
 twitter_username: ManoMarks
 github_username:  ManoMarks
-
+youtube_playlist: "https://www.youtube.com/watch?v=EReEOMS7gsk&list=PLjoEzhZLEfwdQcPNfQ4EZrcitbs0kQ5JZ"
 # Build settings
 markdown: kramdown
