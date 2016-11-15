@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Four Types of Developer Content for Evangelism
+title: Four Types of Developer Content
 date: "2016-01-08 12:00 −07:00"
 categories: DevRel
 comments: true
