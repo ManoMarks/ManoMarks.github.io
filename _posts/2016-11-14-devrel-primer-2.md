@@ -6,6 +6,7 @@ categories: DevRel
 published: true
 comments: true
 ---
+
 **This is the second in a series of posts on Developer Relations. See [Part 1](2016-11-08-devrel-primer-1.md) for more info on the series.**
 
 People often ask me, who do you hire for developer relations? So I thought I'd put down a few thoughts on the kinds of roles that you see out there in developer relations.
