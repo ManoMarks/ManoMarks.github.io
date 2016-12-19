@@ -27,6 +27,7 @@ There are various titles people use for this position. I've seen Support Enginee
 
 ## Other common job titles
 Other than those, there are a number of positions that are not just for Developer Relations, but are often vital to make it function. Some of those you might see are:
+
 * Program Manager
 * Technical Program Manager
 * Project Manager
