@@ -29,4 +29,5 @@ There are many activities that fall into these categories, but it's important to
 ## What Developer Relations Isn't
 There are many people who have written about developer relations, and I'll certainly reference a lot of them in the future. But they all seem to agree on one thing: Developer relations isn't marketing. By that, they mean that developers are very suspicious about things they regard as marketing. That doesn't mean you're not engaged with the marketing team when you are doing developer relations. In fact, many DevRel teams are part of marketing. It means you speak plainly and technically, helping people and establishing these kinds of relationships. In the end, everyone at the company wants to make money and increase users, but DevRel teams do this in a very different way. More on that later. 
 
-**Check out [Part 2: DevRel Personnel](/devrel/2016/11/14/devrel-primer-2.html)**
+**Check out [Part 2: DevRel Personnel]({{ site.baseurl }}{% post_url /devrel/2016-11-14-devrel-primer-2 %}
+)**
